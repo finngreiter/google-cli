@@ -4,6 +4,7 @@ Now you can type `ggl 'cute kittens'` and it will open in your web browser!
 Viola.
 
 *woot*
+
 HELP ME! I'VE NEVER USED A CLI BEFORE!
 
 It's simple, just Clone this repository and double click on the installer.
